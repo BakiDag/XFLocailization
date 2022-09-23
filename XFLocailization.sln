@@ -11,6 +11,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XFLocailization.iOS", "XFLo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XFLocailization", "XFLocailization\XFLocailization\XFLocailization.csproj", "{D3FAED71-96F1-4894-85EF-1DA8A427A488}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Assets", "Assets", "{BF9DC1A5-1C03-4BA7-843D-2428FF7E082F}"
+	ProjectSection(SolutionItems) = preProject
+		Credits.txt = Credits.txt
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
